@@ -1,0 +1,11 @@
+.banner {
+  width: 600px;
+  height: 80px;
+  background-color: gray;
+  color: violet;
+}
+
+form {
+  color: blue;
+  font-family: Roboto;
+}
